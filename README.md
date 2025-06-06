@@ -1,4 +1,4 @@
-# Final Project: Finch Robot Challenges
+  # Final Project: Finch Robot Challenges
 
 ## Essential Question
 How can we apply object-oriented programming principles and Java concepts to create interactive, autonomous robot behaviors that solve real-world challenges?
@@ -116,3 +116,18 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+## Project description and objective
+Our finch robot's main objective was to make it do a dance that we choreographed. It consists of spins, lights, microbit letters, and shaking.
+
+## Description of design choices
+It prints "HELLO WORLD" then moves foward, backwards, turns in a circle counter clockwise, turns right clockwise, shakes left and right 3 times, flashes  rainbow lights 3 times, then displays a smiley face on the microbit and says "BYE".
+
+## Challenges faced and solutions
+Some challenges that we faced was learning how to use visual source code and how to use finch API. Some solutions about this is we read through finch API website and following Mr. Aiello's direction
+
+## Future enchancements
+We can make the dances longer or even we can make the music louder in the future.
+
+## Video of Finch in action
+[Finch Robot Project ChloeP LandonL](https://youtu.be/ErjAX9Jpgjw?feature=shared)
